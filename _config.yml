@@ -2,6 +2,7 @@ name: MIAH Music
 favicon: null
 layout_spectrum: 0.27434142981655896
 typography_spectrum: 0.48787988699041307
+title: MIAHmusic
 cta:
   domain: null
   bucket: null
