@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MIAH Music]]></title>
-        <description><![CDATA[MIAH Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[MIAHmusic]]></title>
+        <description><![CDATA[MIAHmusic]]></description>
+        <link>http://www.miahmusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 03:01:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 01:57:07 GMT</lastBuildDate>
+        <atom:link href="http://www.miahmusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ChopShopBarberShop]]></title>
+            <description><![CDATA[<article><h1>ChopShopBarberShop</h1><p>stop in the 614 to see BigJim... best barber, period. @ChopShopBarberShop on IG... tell him you know White Joe</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8237c59c-af56-4822-8d34-3b28942a732d.jpg"></article>]]></description>
+            <link>http://www.miahmusic.com/chopshopbarbershop/index.html</link>
+            <guid isPermaLink="false">3303740e-e5c4-4671-96a3-4503385c0404</guid>
+            <pubDate>Sun, 27 Mar 2016 01:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined84250a92-1f7c-4531-b74d-328f86ec4add/index.html</link>
+            <description><![CDATA[<p>Welcome To MIAH Music</p>]]></description>
+            <link>http://www.miahmusic.com/84250a92-1f7c-4531-b74d-328f86ec4add/index.html</link>
             <guid isPermaLink="false">84250a92-1f7c-4531-b74d-328f86ec4add</guid>
             <pubDate>Thu, 24 Mar 2016 03:00:46 GMT</pubDate>
         </item>
